@@ -1,4 +1,4 @@
-This is a fork of Raylib, packaged for Zig. Unnecessary files have been deleted
+This is a fork of Raylib(v5.0), packaged for Zig(v0.13.0). Unnecessary files have been deleted
 
 ```
 // build.zig
