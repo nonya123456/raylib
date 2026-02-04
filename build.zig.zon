@@ -1,7 +1,8 @@
 .{
-    .name = "raylib",
+    .name = .raylib,
     .version = "5.5.0",
-    .minimum_zig_version = "0.13.0",
+    .fingerprint = 0x13035e5ca346cfb0,
+    .minimum_zig_version = "0.16.0",
 
     .dependencies = .{
         .xcode_frameworks = .{
